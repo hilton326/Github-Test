@@ -1,0 +1,17 @@
+git config --global user.name "Hilton"
+git config --global user.email delvalle.hilton@gmail.com
+git config --global init.default branch main
+
+git init (while in your directory)
+git status 
+git add (file)
+git rm (file)
+git mv oldname.txt newname.txt
+git restore deleted.txt
+git commit -a -m "Commit message"
+
+git branch newBranch
+git branch
+git switch newBranch
+
+
